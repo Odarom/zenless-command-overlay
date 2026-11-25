@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "version": "1.3.0",
+  "source": "3840x2160 / 30 fps / 2 seconds",
+  "output": "1024x512 / ProRes 4444 / alpha / 60 frames",
+  "checks": [
+    "direct source linking and playback without video copy",
+    "repeat link reuses record",
+    "picker cancellation preserves source",
+    "Phoenix Velina Remielle party selection",
+    "keyboard tap and hold",
+    "custom text",
+    "manual split",
+    "delete and undo",
+    "scrub keeps edit selection",
+    "language keeps text",
+    "720p preview creation and bulk deletion preserve original",
+    "1366x768 and 1920x1080 input keys fit",
+    "playback volume and mute persist",
+    "window fit stays stable after scrolling",
+    "default arrows and per-connection plus persist",
+    "yellow switch recording default and per-event edit persist",
+    "shared painter draws plus arrow and original yellow image",
+    "autosave reload",
+    "cross-origin write protection",
+    "MOV alpha and frame count",
+    "PNG sequence",
+    "consecutive animation frames differ",
+    "settled animation frames match"
+  ],
+  "errors": []
+}

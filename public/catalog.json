@@ -1,0 +1,684 @@
+[
+  {
+    "id": "1011",
+    "names": {
+      "ko": "엔비",
+      "en": "Anby",
+      "ja": "アンビー",
+      "zh-CN": "安比"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle01.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle01.png"
+  },
+  {
+    "id": "1021",
+    "names": {
+      "ko": "네코마타",
+      "en": "Nekomata",
+      "ja": "猫又",
+      "zh-CN": "猫又"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle11.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle11.png"
+  },
+  {
+    "id": "1031",
+    "names": {
+      "ko": "니콜",
+      "en": "Nicole",
+      "ja": "ニコ",
+      "zh-CN": "妮可"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle12.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle12.png"
+  },
+  {
+    "id": "1041",
+    "names": {
+      "ko": "「11호」",
+      "en": "Soldier 11",
+      "ja": "「11号」",
+      "zh-CN": "「11号」"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle05.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle05.png"
+  },
+  {
+    "id": "1061",
+    "names": {
+      "ko": "코린",
+      "en": "Corin",
+      "ja": "カリン",
+      "zh-CN": "可琳"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle09.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle09.png"
+  },
+  {
+    "id": "1081",
+    "names": {
+      "ko": "빌리",
+      "en": "Billy",
+      "ja": "ビリー",
+      "zh-CN": "比利"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle10.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle10.png"
+  },
+  {
+    "id": "1091",
+    "names": {
+      "ko": "미야비",
+      "en": "Miyabi",
+      "ja": "星見雅",
+      "zh-CN": "雅"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle13.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle13.png"
+  },
+  {
+    "id": "1101",
+    "names": {
+      "ko": "콜레다",
+      "en": "Koleda",
+      "ja": "クレタ",
+      "zh-CN": "珂蕾妲"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle14.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle14.png"
+  },
+  {
+    "id": "1111",
+    "names": {
+      "ko": "앤톤",
+      "en": "Anton",
+      "ja": "アンドー",
+      "zh-CN": "安东"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle15.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle15.png"
+  },
+  {
+    "id": "1121",
+    "names": {
+      "ko": "벤",
+      "en": "Ben",
+      "ja": "ベン",
+      "zh-CN": "本"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle16.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle16.png"
+  },
+  {
+    "id": "1131",
+    "names": {
+      "ko": "소우카쿠",
+      "en": "Soukaku",
+      "ja": "蒼角",
+      "zh-CN": "苍角"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle17.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle17.png"
+  },
+  {
+    "id": "1141",
+    "names": {
+      "ko": "리카온",
+      "en": "Lycaon",
+      "ja": "ライカン",
+      "zh-CN": "莱卡恩"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle18.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle18.png"
+  },
+  {
+    "id": "1181",
+    "names": {
+      "ko": "그레이스",
+      "en": "Grace",
+      "ja": "グレース",
+      "zh-CN": "格莉丝"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle20.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle20.png"
+  },
+  {
+    "id": "1191",
+    "names": {
+      "ko": "엘렌",
+      "en": "Ellen",
+      "ja": "エレン",
+      "zh-CN": "艾莲"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle21.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle21.png"
+  },
+  {
+    "id": "1211",
+    "names": {
+      "ko": "리나",
+      "en": "Rina",
+      "ja": "リナ",
+      "zh-CN": "丽娜"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle22.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle22.png"
+  },
+  {
+    "id": "1241",
+    "names": {
+      "ko": "주연",
+      "en": "Zhu Yuan",
+      "ja": "朱鳶",
+      "zh-CN": "朱鸢"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle23.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle23.png"
+  },
+  {
+    "id": "1251",
+    "names": {
+      "ko": "청의",
+      "en": "Qingyi",
+      "ja": "青衣",
+      "zh-CN": "青衣"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle29.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle29.png"
+  },
+  {
+    "id": "1261",
+    "names": {
+      "ko": "제인",
+      "en": "Jane",
+      "ja": "ジェーン",
+      "zh-CN": "简"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle24.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle24.png"
+  },
+  {
+    "id": "1271",
+    "names": {
+      "ko": "세스",
+      "en": "Seth",
+      "ja": "セス",
+      "zh-CN": "赛斯"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle30.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle30.png"
+  },
+  {
+    "id": "1071",
+    "names": {
+      "ko": "카이사르",
+      "en": "Caesar",
+      "ja": "シーザー",
+      "zh-CN": "凯撒"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle25.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle25.png"
+  },
+  {
+    "id": "1151",
+    "names": {
+      "ko": "루시",
+      "en": "Lucy",
+      "ja": "ルーシー",
+      "zh-CN": "露西"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle27.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle27.png"
+  },
+  {
+    "id": "1171",
+    "names": {
+      "ko": "버니스",
+      "en": "Burnice",
+      "ja": "バーニス",
+      "zh-CN": "柏妮思"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle32.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle32.png"
+  },
+  {
+    "id": "1281",
+    "names": {
+      "ko": "파이퍼",
+      "en": "Piper",
+      "ja": "パイパー",
+      "zh-CN": "派派"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle28.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle28.png"
+  },
+  {
+    "id": "1161",
+    "names": {
+      "ko": "라이터",
+      "en": "Lighter",
+      "ja": "ライト",
+      "zh-CN": "莱特"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle26.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle26.png"
+  },
+  {
+    "id": "1221",
+    "names": {
+      "ko": "야나기",
+      "en": "Yanagi",
+      "ja": "月城柳",
+      "zh-CN": "柳"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle31.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle31.png"
+  },
+  {
+    "id": "1201",
+    "names": {
+      "ko": "하루마사",
+      "en": "Harumasa",
+      "ja": "浅羽悠真",
+      "zh-CN": "悠真"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle35.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle35.png"
+  },
+  {
+    "id": "1641",
+    "names": {
+      "ko": "피닉스",
+      "en": "Phoenix",
+      "ja": "フィオニー",
+      "zh-CN": "菲欧妮"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle1641.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle1641.png"
+  },
+  {
+    "id": "1561",
+    "names": {
+      "ko": "벨리나",
+      "en": "Velina",
+      "ja": "ヴェリナ",
+      "zh-CN": "维琳娜"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle64.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle64.png"
+  },
+  {
+    "id": "1581",
+    "names": {
+      "ko": "레미엘",
+      "en": "Remielle",
+      "ja": "レミエール",
+      "zh-CN": "蕾米埃尔"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle67.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle67.png"
+  },
+  {
+    "id": "1051",
+    "names": {
+      "ko": "이드하리",
+      "en": "Yidhari",
+      "ja": "イドリー",
+      "zh-CN": "伊德海莉"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle52.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle52.png"
+  },
+  {
+    "id": "1291",
+    "names": {
+      "ko": "휴고",
+      "en": "Hugo",
+      "ja": "ヒューゴ",
+      "zh-CN": "雨果"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle42.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle42.png"
+  },
+  {
+    "id": "1301",
+    "names": {
+      "ko": "오피&「도깨비불」",
+      "en": "Orphie & Magus",
+      "ja": "オルペウス&「鬼火」",
+      "zh-CN": "奥菲丝&「鬼火」"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle49.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle49.png"
+  },
+  {
+    "id": "1311",
+    "names": {
+      "ko": "아스트라",
+      "en": "Astra Yao",
+      "ja": "アストラ",
+      "zh-CN": "耀嘉音"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle36.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle36.png"
+  },
+  {
+    "id": "1321",
+    "names": {
+      "ko": "이블린",
+      "en": "Evelyn",
+      "ja": "イヴリン",
+      "zh-CN": "伊芙琳"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle37.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle37.png"
+  },
+  {
+    "id": "1331",
+    "names": {
+      "ko": "비비안",
+      "en": "Vivian",
+      "ja": "ビビアン",
+      "zh-CN": "薇薇安"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle41.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle41.png"
+  },
+  {
+    "id": "1341",
+    "names": {
+      "ko": "자오",
+      "en": "Zhao",
+      "ja": "照",
+      "zh-CN": "照"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle56.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle56.png"
+  },
+  {
+    "id": "1351",
+    "names": {
+      "ko": "펄크라",
+      "en": "Pulchra",
+      "ja": "プルクラ",
+      "zh-CN": "波可娜"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle38.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle38.png"
+  },
+  {
+    "id": "1361",
+    "names": {
+      "ko": "「트리거」",
+      "en": "Trigger",
+      "ja": "「トリガー」",
+      "zh-CN": "「扳机」"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle39.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle39.png"
+  },
+  {
+    "id": "1371",
+    "names": {
+      "ko": "의현",
+      "en": "Yixuan",
+      "ja": "儀玄",
+      "zh-CN": "仪玄"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle44.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle44.png"
+  },
+  {
+    "id": "1381",
+    "names": {
+      "ko": "0호·엔비",
+      "en": "Soldier 0 - Anby",
+      "ja": "0号・アンビー",
+      "zh-CN": "零号·安比"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle40.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle40.png"
+  },
+  {
+    "id": "1391",
+    "names": {
+      "ko": "귤복복",
+      "en": "Ju Fufu",
+      "ja": "橘福福",
+      "zh-CN": "橘福福"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle43.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle43.png"
+  },
+  {
+    "id": "1401",
+    "names": {
+      "ko": "앨리스",
+      "en": "Alice",
+      "ja": "アリス",
+      "zh-CN": "爱丽丝"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle46.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle46.png"
+  },
+  {
+    "id": "1411",
+    "names": {
+      "ko": "유즈하",
+      "en": "Yuzuha",
+      "ja": "浮波柚葉",
+      "zh-CN": "柚叶"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle47.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle47.png"
+  },
+  {
+    "id": "1421",
+    "names": {
+      "ko": "반인호",
+      "en": "Pan Yinhu",
+      "ja": "潘引壺",
+      "zh-CN": "潘引壶"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle45.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle45.png"
+  },
+  {
+    "id": "1431",
+    "names": {
+      "ko": "엽빛나",
+      "en": "Ye Shunguang",
+      "ja": "葉瞬光",
+      "zh-CN": "叶瞬光"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle55.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle55.png"
+  },
+  {
+    "id": "1441",
+    "names": {
+      "ko": "마나토",
+      "en": "Manato",
+      "ja": "狛野真斗",
+      "zh-CN": "真斗"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle51.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle51.png"
+  },
+  {
+    "id": "1451",
+    "names": {
+      "ko": "루시아",
+      "en": "Lucia",
+      "ja": "リュシア",
+      "zh-CN": "卢西娅"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle50.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle50.png"
+  },
+  {
+    "id": "1461",
+    "names": {
+      "ko": "「시드」",
+      "en": "Seed",
+      "ja": "「シード」",
+      "zh-CN": "「席德」"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle48.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle48.png"
+  },
+  {
+    "id": "1471",
+    "names": {
+      "ko": "반악",
+      "en": "Banyue",
+      "ja": "盤岳",
+      "zh-CN": "般岳"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle53.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle53.png"
+  },
+  {
+    "id": "1481",
+    "names": {
+      "ko": "다이아린",
+      "en": "Dialyn",
+      "ja": "ダイアリン",
+      "zh-CN": "琉音"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle54.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle54.png"
+  },
+  {
+    "id": "1491",
+    "names": {
+      "ko": "수나",
+      "en": "Sunna",
+      "ja": "千夏",
+      "zh-CN": "千夏"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle58.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle58.png"
+  },
+  {
+    "id": "1501",
+    "names": {
+      "ko": "아리아",
+      "en": "Aria",
+      "ja": "アリア",
+      "zh-CN": "爱芮"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle57.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle57.png"
+  },
+  {
+    "id": "1511",
+    "names": {
+      "ko": "남궁우",
+      "en": "Nangong Yu",
+      "ja": "南宮羽",
+      "zh-CN": "南宫羽"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle59.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle59.png"
+  },
+  {
+    "id": "1521",
+    "names": {
+      "ko": "시시아",
+      "en": "Cissia",
+      "ja": "シーシィア",
+      "zh-CN": "希希芙"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle60.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle60.png"
+  },
+  {
+    "id": "1531",
+    "names": {
+      "ko": "스타라이트·빌리",
+      "en": "Starlight - Billy",
+      "ja": "スターライト･ビリー",
+      "zh-CN": "星徽·比利"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle62.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle62.png"
+  },
+  {
+    "id": "1541",
+    "names": {
+      "ko": "프로미아",
+      "en": "Promeia",
+      "ja": "プロメイア",
+      "zh-CN": "普罗米娅"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle61.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle61.png"
+  },
+  {
+    "id": "1551",
+    "names": {
+      "ko": "피로이스",
+      "en": "Pyrois",
+      "ja": "ピュロイス",
+      "zh-CN": "佩洛伊斯"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle63.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle63.png"
+  },
+  {
+    "id": "1571",
+    "names": {
+      "ko": "노르마",
+      "en": "Norma",
+      "ja": "ノルムー",
+      "zh-CN": "诺姆"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle65.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle65.png"
+  },
+  {
+    "id": "1591",
+    "names": {
+      "ko": "시그리드",
+      "en": "Sigrid",
+      "ja": "シグリッド",
+      "zh-CN": "希格莉德"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle66.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle66.png"
+  },
+  {
+    "id": "1611",
+    "names": {
+      "ko": "클라렛",
+      "en": "Claret",
+      "ja": "クラレッタ",
+      "zh-CN": "克拉蕾"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle1611.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle1611.png"
+  },
+  {
+    "id": "1621",
+    "names": {
+      "ko": "록시",
+      "en": "Roxy",
+      "ja": "ロクシー",
+      "zh-CN": "洛克茜"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle68.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle68.png"
+  },
+  {
+    "id": "1631",
+    "names": {
+      "ko": "세베리안",
+      "en": "Severian",
+      "ja": "セヴェリアン",
+      "zh-CN": "赛维里安"
+    },
+    "portrait": "/assets/portraits/IconRoleCircle1631.png",
+    "source": "https://enka.network/ui/zzz/IconRoleCircle1631.png"
+  }
+]

@@ -1,0 +1,368 @@
+{
+  "originalCommandSize": "48x48",
+  "special": "EX glyph rendered in grayscale",
+  "assets": [
+    {
+      "file": "commands/Icon_Evade.webp",
+      "source": "https://static.nanoka.cc/assets/zzz/Icon_Evade.webp",
+      "sha256": "48a4de7dbe4d6ba3e85e14ad010b8028e4badf9f0d01230122d6bb944a52f8ee"
+    },
+    {
+      "file": "commands/Icon_Normal.webp",
+      "source": "https://static.nanoka.cc/assets/zzz/Icon_Normal.webp",
+      "sha256": "4f7078ee9d3a5e61be8ce9d3fd3f68b91de0880ba80ee43ea51b64394c158602"
+    },
+    {
+      "file": "commands/Icon_QTE.webp",
+      "source": "https://static.nanoka.cc/assets/zzz/Icon_QTE.webp",
+      "sha256": "ccc5c2364383f550e413df15d870fe3b01e1c00269b90baaab30ea485df48f15"
+    },
+    {
+      "file": "commands/Icon_SpecialReady.webp",
+      "source": "https://static.nanoka.cc/assets/zzz/Icon_SpecialReady.webp",
+      "sha256": "dc482b4e302e7317c381a212d306489c31d0a20f5673ce834e9d8ee4ce8dc8ee"
+    },
+    {
+      "file": "commands/Icon_Switch.webp",
+      "source": "https://static.nanoka.cc/assets/zzz/Icon_Switch.webp",
+      "sha256": "430a995c8f045c4ab04f346ee22514add6e6cf7464f19fc04c07ab45a0ef3777"
+    },
+    {
+      "file": "commands/Icon_UltimateReady.webp",
+      "source": "https://static.nanoka.cc/assets/zzz/Icon_UltimateReady.webp",
+      "sha256": "caf4707a1269b9bd293680f0bd485bc7a38d66c15736158fc25b124296e3876f"
+    },
+    {
+      "file": "portraits/IconRoleCircle01.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle01.png",
+      "sha256": "be4dfb907b399b3273d6b2c1a9f9e3ed71fc64e614e5867df1ba514f382306da"
+    },
+    {
+      "file": "portraits/IconRoleCircle05.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle05.png",
+      "sha256": "946220edc9aef28d15bf5c74a113e04321ff39e29d74ec3b8571a467dd403752"
+    },
+    {
+      "file": "portraits/IconRoleCircle09.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle09.png",
+      "sha256": "2f0e8611bc2c57ba3a817efd6e73ef9a81f749f5065e07aac00241cd78206655"
+    },
+    {
+      "file": "portraits/IconRoleCircle10.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle10.png",
+      "sha256": "b12dc7fc3f45977601964dfe7678049722c7e3e57ff53cd74b42dc8bc5ee907b"
+    },
+    {
+      "file": "portraits/IconRoleCircle11.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle11.png",
+      "sha256": "4ab1aecd4c7dfe46afa941a6c4cc1e26e86cb8efef2005b030c7a10ad6c393a3"
+    },
+    {
+      "file": "portraits/IconRoleCircle12.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle12.png",
+      "sha256": "38b7d4089ae3f66b9813fc3ff91184ec0575afb44c058a890afcbee2054450d1"
+    },
+    {
+      "file": "portraits/IconRoleCircle13.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle13.png",
+      "sha256": "4349811c591c213ade684554151509ef41e8e92fd52e7972c46c1592d0ddd132"
+    },
+    {
+      "file": "portraits/IconRoleCircle14.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle14.png",
+      "sha256": "872775f7fe752434c28772896784143ef4dbeab2978ff51c5afff5a0e5480fe6"
+    },
+    {
+      "file": "portraits/IconRoleCircle15.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle15.png",
+      "sha256": "f2ac128ccf16b39575044255143732c36aa2d507fe868e4fb119935bfa3aeb2e"
+    },
+    {
+      "file": "portraits/IconRoleCircle16.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle16.png",
+      "sha256": "7426541662e04fb9ff468873cd575288d5dafa1b37e0a9abd7aa4acbfb4dba46"
+    },
+    {
+      "file": "portraits/IconRoleCircle17.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle17.png",
+      "sha256": "7331a0b99b9ca214f078a49ce8cbb1c275aeb8c3881a4d9837bcd626716bb789"
+    },
+    {
+      "file": "portraits/IconRoleCircle18.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle18.png",
+      "sha256": "742e684d1caf8942582b5be4039cef5530ea6da14a0cb20879a1bf1ddc8256fd"
+    },
+    {
+      "file": "portraits/IconRoleCircle20.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle20.png",
+      "sha256": "071d1816b489848ff040a7bd408a1c4d8c92650a5542abc045af2df491a0b078"
+    },
+    {
+      "file": "portraits/IconRoleCircle21.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle21.png",
+      "sha256": "aa1475682deb6a0e0dc591f86809bbe47e8e11f3687ac5dd8fd37c75fb57ee00"
+    },
+    {
+      "file": "portraits/IconRoleCircle22.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle22.png",
+      "sha256": "a994ade30323c8f8690603995f43512d93cf7e17a2a78b10a05943b30503c63f"
+    },
+    {
+      "file": "portraits/IconRoleCircle23.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle23.png",
+      "sha256": "f324d0000724b98bb9a2d8d74ab5b183a3270e4d33e1d12edf939f1c678c772a"
+    },
+    {
+      "file": "portraits/IconRoleCircle24.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle24.png",
+      "sha256": "d599f657f388d060c880693e04119951f1453b8a71e5d05eb3e16d96ed87da80"
+    },
+    {
+      "file": "portraits/IconRoleCircle25.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle25.png",
+      "sha256": "4f81e03c0967950511c2d0a96e18458c8b17bd2cb86f0f443337c26d2353cfbd"
+    },
+    {
+      "file": "portraits/IconRoleCircle26.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle26.png",
+      "sha256": "292f5dbf7d92fc1446a25f201adcde88ba62c126077a987730c633acdc12370c"
+    },
+    {
+      "file": "portraits/IconRoleCircle27.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle27.png",
+      "sha256": "92bc4d3cc8c74c261275b4d0c1a9d370c076303e6536f4c5598820c851de4a54"
+    },
+    {
+      "file": "portraits/IconRoleCircle28.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle28.png",
+      "sha256": "5a2bceae769f37afb3a8730e509694fb21f691fa45b13ab9d29156b923bb9732"
+    },
+    {
+      "file": "portraits/IconRoleCircle29.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle29.png",
+      "sha256": "d922b9c7c6f84bd205a1c2afbf9813885e6957b98f5b3ec01f5ea28f12d7e39a"
+    },
+    {
+      "file": "portraits/IconRoleCircle30.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle30.png",
+      "sha256": "f5e89995a8f06a0442ea977594f41eedc7698385cace558c52f6126e9dc35ec8"
+    },
+    {
+      "file": "portraits/IconRoleCircle31.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle31.png",
+      "sha256": "24d195424f2fdaec33c0e064aaeeee88a2cf3dc89ee510aac92c32de724caa61"
+    },
+    {
+      "file": "portraits/IconRoleCircle32.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle32.png",
+      "sha256": "6e919f00afd1349a3a165880ce80d3e7c806e2c065c3f266d6c1e98e549a58f0"
+    },
+    {
+      "file": "portraits/IconRoleCircle35.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle35.png",
+      "sha256": "0bc1a95bbfc51b28783d73d0eb46157a652c64d80fdbb402bab26935491905b5"
+    },
+    {
+      "file": "portraits/IconRoleCircle1641.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle1641.png",
+      "sha256": "d20eab2a43c503f13a8b9e7952c72a95db4128dd2f373a9a6c8569fe725ab0fc"
+    },
+    {
+      "file": "portraits/IconRoleCircle64.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle64.png",
+      "sha256": "0b0c6922d3ed515ded3015acede3878f3255e8f48b3cd1482a694b4f118b391b"
+    },
+    {
+      "file": "portraits/IconRoleCircle67.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle67.png",
+      "sha256": "cc9961e73d01a818547e08f53e6c385005dcd9d8e4d17733a54f6772e22857ed"
+    },
+    {
+      "file": "commands/Icon_SwitchYellow.webp",
+      "source": "https://genshinlab.com/wp-content/uploads/Switch-e1705240619857-1.webp",
+      "sourcePage": "https://genshinlab.com/zenless-zone-zero/ellen-build/",
+      "size": "88x86",
+      "sha256": "fdaf3c5027d63d91b2b257ddd10d288c9aef3eb7663146059a67b45227e22811",
+      "note": "Unmodified public HUD icon; ring gaps differ from the user reference. Not a recolored white glyph."
+    },
+    {
+      "file": "portraits/IconRoleCircle52.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle52.png",
+      "sha256": "bc4e158ffb42f870e6a83b69fb9bbad07882db8fe86dd6a92ca0f8d6f0b501f2"
+    },
+    {
+      "file": "portraits/IconRoleCircle42.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle42.png",
+      "sha256": "08ed48ebc774e9592dee3e59374dd2283decfc5695a6f702e6357e01c3ebb99a"
+    },
+    {
+      "file": "portraits/IconRoleCircle49.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle49.png",
+      "sha256": "91612992085fa6f1cc81bea277d3411f78f64478109b27b738313b4db539142c"
+    },
+    {
+      "file": "portraits/IconRoleCircle36.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle36.png",
+      "sha256": "aa180d91a065ffd95d929e927b0a9fe3e856a836e1a905fe8737f77250a60289"
+    },
+    {
+      "file": "portraits/IconRoleCircle37.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle37.png",
+      "sha256": "c0439cff7725520dd3545b92806c29d1cec313de4b9590ca71d30300ff7cef9e"
+    },
+    {
+      "file": "portraits/IconRoleCircle41.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle41.png",
+      "sha256": "662ee733bf509c0be4e746ec9565c70b84349b9702d314ef842806918093d204"
+    },
+    {
+      "file": "portraits/IconRoleCircle56.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle56.png",
+      "sha256": "067ff4a371c1e593e09be2229846bc7e84a7f97ec03d8d5499e5b5b5884ba3e3"
+    },
+    {
+      "file": "portraits/IconRoleCircle38.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle38.png",
+      "sha256": "2c27d22155071a38d78481c10b3517107bc1107beae644db0f8c0be93ff48753"
+    },
+    {
+      "file": "portraits/IconRoleCircle39.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle39.png",
+      "sha256": "0d6eae085d7e9e2e37c795b537f8146ca81ec1e8771a38d8536c646762d88a9f"
+    },
+    {
+      "file": "portraits/IconRoleCircle44.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle44.png",
+      "sha256": "f86f32eb6f3da77b05d18371822e9edb469b0fc9664433002125de852a2592f5"
+    },
+    {
+      "file": "portraits/IconRoleCircle40.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle40.png",
+      "sha256": "d5415e7e86f2126db37e169e6e0687ce5f1624c6507e874517507966aa1dfb5b"
+    },
+    {
+      "file": "portraits/IconRoleCircle43.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle43.png",
+      "sha256": "b3901729431112284c5f0007b6b76fb0a49793a689eaf78a7153b41934a42860"
+    },
+    {
+      "file": "portraits/IconRoleCircle46.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle46.png",
+      "sha256": "1606f8a8db09f08e09f8514fb934d97a0f5647ce1ace8cc3c086659e6fa724ad"
+    },
+    {
+      "file": "portraits/IconRoleCircle47.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle47.png",
+      "sha256": "80e66f7d616ac8e507a32a8f6e7c67e3ff6db6ad9942415173d16e701489286a"
+    },
+    {
+      "file": "portraits/IconRoleCircle45.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle45.png",
+      "sha256": "8b8bf373594dd67dd97670c7b5e0e2f782a8f889cd1167a36e14649bbadc9d31"
+    },
+    {
+      "file": "portraits/IconRoleCircle55.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle55.png",
+      "sha256": "0649eff77ffe83473ab1a5f69eaeddb7ded852f3c468f834ea0f9c5d48d5ee94"
+    },
+    {
+      "file": "portraits/IconRoleCircle51.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle51.png",
+      "sha256": "5ce9316a2009a2deecb1c6dac111d499c9ac12eed4e37efc4b6bce818d6883fc"
+    },
+    {
+      "file": "portraits/IconRoleCircle50.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle50.png",
+      "sha256": "25ef9d81a35064e1c8c6feb65b0a39c7039fc5fffa6dcfd7557d9a0ab560ab25"
+    },
+    {
+      "file": "portraits/IconRoleCircle48.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle48.png",
+      "sha256": "1f17c0390f446ddec8b3661af6c49bb0dc8ee2431dab41c27dc551d9ab67ba52"
+    },
+    {
+      "file": "portraits/IconRoleCircle53.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle53.png",
+      "sha256": "3b6583606b9d53c3eb47d150437a0a21713992d98f5bbed1d9b1ba1d7dba74ab"
+    },
+    {
+      "file": "portraits/IconRoleCircle54.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle54.png",
+      "sha256": "fa826e7375d3ab02770c26fdc4a1fe3a0d783aac9937a729572c6512521eba7b"
+    },
+    {
+      "file": "portraits/IconRoleCircle58.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle58.png",
+      "sha256": "61b9771fa6e710e9f3039e50771057fede7e0ced0d1d181092bc92ce3a5308be"
+    },
+    {
+      "file": "portraits/IconRoleCircle57.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle57.png",
+      "sha256": "59f12c866e1b2d07ef2632e5b244793b6083101061adebb69f926853c2a8c02e"
+    },
+    {
+      "file": "portraits/IconRoleCircle59.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle59.png",
+      "sha256": "e4cfdd4a274467b0cabe589ac745408acbb8fa5b24234444d7b943bda65fac4d"
+    },
+    {
+      "file": "portraits/IconRoleCircle60.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle60.png",
+      "sha256": "47889463030f222fbc4ec2ff793b5441d94ff6a457691651ba1711b73ade30b8"
+    },
+    {
+      "file": "portraits/IconRoleCircle62.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle62.png",
+      "sha256": "f569b8356e35eb336f495513f17e0c16ca267aca05f15f28e59fad0ee5a1597b"
+    },
+    {
+      "file": "portraits/IconRoleCircle61.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle61.png",
+      "sha256": "141ed082e4e4f19c686025fdc2d9a1a5ed32849498fecb1d5e1d0d7e371b3714"
+    },
+    {
+      "file": "portraits/IconRoleCircle63.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle63.png",
+      "sha256": "5b12f88936e7af7c1d3db3c2b29f4d349ffef9c8f3a5ae0102cd3702a4dfa7f0"
+    },
+    {
+      "file": "portraits/IconRoleCircle65.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle65.png",
+      "sha256": "14fda199c847a1673763dffa2d8b9f7f933995f924829dcafdace78d4b61803b"
+    },
+    {
+      "file": "portraits/IconRoleCircle66.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle66.png",
+      "sha256": "f3c0712c7cb3d9b3b6599f2df29036f3fc90113980567f815cf909d96d61f2bc"
+    },
+    {
+      "file": "portraits/IconRoleCircle1611.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle1611.png",
+      "sha256": "23ee107f07cf109b51edb6b2ea2a72ddc8141b852d55190b7266f98d6f9f4e78"
+    },
+    {
+      "file": "portraits/IconRoleCircle68.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle68.png",
+      "sha256": "5d3a393070a96db3caf8055bbb1f9ae35a50d83f87b2e0f5bde98510695798b0"
+    },
+    {
+      "file": "portraits/IconRoleCircle1631.png",
+      "source": "https://enka.network/ui/zzz/IconRoleCircle1631.png",
+      "sha256": "24b7e69e6b3251cd69b537377b8686fd830e8a0480639184e897e87b3f08f947"
+    }
+  ],
+  "releaseVerification": {
+    "Phoenix": "https://www.gamespress.com/it/Zenless-Zone-Zero-Version-33-Journey-to-the-Sky-Coming-Soon-S-Rank-Age",
+    "Velina": "https://www.gamespress.com/it/Zenless-Zone-Zero-Version-33-Journey-to-the-Sky-Coming-Soon-S-Rank-Age",
+    "Remielle": "https://zenless.hoyoverse.com/en-us/news/165249?catchSpider=1"
+  },
+  "catalogRelease": {
+    "version": "3.3",
+    "agents": 62,
+    "checked": "2026-11-25",
+    "names": "https://static.nanoka.cc/zzz/3.3/character.json",
+    "mapping": "https://github.com/EnkaNetwork/API-docs/blob/master/store/zzz/avatars.json",
+    "phase1": "https://zenless.hoyoverse.com/en-us/news/166964",
+    "phase2": "https://zenless.hoyoverse.com/en-us/news/167304"
+  }
+}

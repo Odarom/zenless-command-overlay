@@ -1,0 +1,15 @@
+data/
+output/
+runtime/
+*.log
+*.zzzoverlay
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+tools/
+node_modules/
+.env*
+.secrets/
